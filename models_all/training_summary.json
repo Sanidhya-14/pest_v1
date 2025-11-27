@@ -1,0 +1,110 @@
+[
+  {
+    "pest": "Brownplanthopper",
+    "status": "ok",
+    "mae": 1370.0538483873936,
+    "rmse": 2525.6341776956874,
+    "baseline_mae": 2047.6959064327486,
+    "baseline_rmse": 3642.7267612751225,
+    "p50": 1121.9999999999998,
+    "p75": 5390.999999999998,
+    "p90": 17859.600000000024,
+    "model_path": "./models_all\\brownplanthopper_model.pkl"
+  },
+  {
+    "pest": "Caseworm",
+    "status": "ok",
+    "mae": 5.687129364222205,
+    "rmse": 11.522840767410568,
+    "baseline_mae": 3.9574468085106385,
+    "baseline_rmse": 7.942613322010504,
+    "p50": 2.0000000000000004,
+    "p75": 16.0,
+    "p90": 45.90000000000003,
+    "model_path": "./models_all\\caseworm_model.pkl"
+  },
+  {
+    "pest": "Gallmidge",
+    "status": "ok",
+    "mae": 111.17084466609994,
+    "rmse": 258.21347079068244,
+    "baseline_mae": 141.88439306358381,
+    "baseline_rmse": 322.11043595012086,
+    "p50": 20.0,
+    "p75": 154.25000000000003,
+    "p90": 1050.9000000000005,
+    "model_path": "./models_all\\gallmidge_model.pkl"
+  },
+  {
+    "pest": "Greenleafhopper",
+    "status": "ok",
+    "mae": 1327.5991258819975,
+    "rmse": 2754.3477738345177,
+    "baseline_mae": 2027.5421686746988,
+    "baseline_rmse": 4229.807668873686,
+    "p50": 403.00000000000017,
+    "p75": 2221.0,
+    "p90": 7417.200000000004,
+    "model_path": "./models_all\\greenleafhopper_model.pkl"
+  },
+  {
+    "pest": "LeafFolder",
+    "status": "ok",
+    "mae": 37.46885250267443,
+    "rmse": 118.67435055166152,
+    "baseline_mae": 48.02272727272727,
+    "baseline_rmse": 142.6065789633717,
+    "p50": 6.999999999999998,
+    "p75": 33.99999999999999,
+    "p90": 121.99999999999994,
+    "model_path": "./models_all\\leaffolder_model.pkl"
+  },
+  {
+    "pest": "Miridbug",
+    "status": "ok",
+    "mae": 105.86323165152011,
+    "rmse": 252.6074842481186,
+    "baseline_mae": 109.53378378378379,
+    "baseline_rmse": 265.20885446471516,
+    "p50": 36.99999999999999,
+    "p75": 279.9999999999999,
+    "p90": 2198.900000000003,
+    "model_path": "./models_all\\miridbug_model.pkl"
+  },
+  {
+    "pest": "Whitebackedplanthopper",
+    "status": "ok",
+    "mae": 224.90863882000937,
+    "rmse": 785.0115762521057,
+    "baseline_mae": 297.70454545454544,
+    "baseline_rmse": 1096.4258825424956,
+    "p50": 58.999999999999986,
+    "p75": 649.9999999999998,
+    "p90": 3802.9999999999973,
+    "model_path": "./models_all\\whitebackedplanthopper_model.pkl"
+  },
+  {
+    "pest": "Yellowstemborer",
+    "status": "ok",
+    "mae": 500.08741519921074,
+    "rmse": 1019.9240227355544,
+    "baseline_mae": 833.0511363636364,
+    "baseline_rmse": 1615.6365565790304,
+    "p50": 335.99999999999994,
+    "p75": 1449.0,
+    "p90": 5607.000000000002,
+    "model_path": "./models_all\\yellowstemborer_model.pkl"
+  },
+  {
+    "pest": "ZigZagleafhopper",
+    "status": "ok",
+    "mae": 165.35503086513702,
+    "rmse": 263.78946089876945,
+    "baseline_mae": 328.45744680851067,
+    "baseline_rmse": 359.1937410604774,
+    "p50": 450.5000000000001,
+    "p75": 1619.9999999999998,
+    "p90": 3832.7999999999984,
+    "model_path": "./models_all\\zigzagleafhopper_model.pkl"
+  }
+]

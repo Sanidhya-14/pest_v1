@@ -150,5 +150,6 @@ With expert validation and a real weather feed, the system can evolve into a sca
 **Sanidhya Kumar Ghosal**
 *Project Associate — Annam.AI*
 *B.Tech (IT)*
+sanidhyakumarghosal@gmail.com
 
 🌱 **Open to collaboration & research discussion!**
